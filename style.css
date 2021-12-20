@@ -1,0 +1,94 @@
+*{
+   margin-left: 10px;
+}
+
+nav{
+    margin-left: -5px;
+   
+}
+
+header{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+p{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+#heading{
+    margin-top: 15px;
+}
+
+form > div > .smallinput{
+    width: 40px;
+}
+
+.box-1 , .footer-img{
+    margin-bottom: 25px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   font-weight: bolder;
+}
+
+main{
+    display: flex;
+   justify-content: center;
+  
+}
+
+img{
+    width: 30%;
+}
+
+.firstimg{
+    width: 50%;
+    margin-left: 20px;
+}
+
+.centerpart >img{
+ width: 15%;
+}
+
+#section-1  > div{
+ 
+  display: flex;
+  
+  
+}
+
+#section-1 > div > ul >li {
+
+   list-style: none;
+  
+}
+
+.rightimg{
+ width: 10%;
+}
+
+.rigtimg-extra{
+    height: 150px;
+}
+
+h3{
+    color: #FFAFAF;
+}
+
+footer{
+    margin-top: 30px;
+}
+
+.footer-img-first{
+    width: 10%;
+}
+
+
+
+footer > div > i >img{
+
+    width: 3%;
+    height: 6%;
+    padding-right: 30px;
+   
+}
+
+
